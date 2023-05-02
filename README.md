@@ -3,7 +3,7 @@
   # Personal-App
 
   ### Description
-  An custom app I made for my convenience.
+  A custom app I made for my convenience.
 
   ### Usage
   `npm i` to install dependencies.
